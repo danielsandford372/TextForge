@@ -1,7 +1,7 @@
 {
   "name": "textforge",
   "version": "1.0.0",
-  "description": "API endpoint collection for manipulating and analyzing text",
+  "description": "Part of the LabKit tech stack - API endpoint collection for manipulating and analyzing text",
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",

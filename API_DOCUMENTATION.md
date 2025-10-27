@@ -1,5 +1,7 @@
 # TextForge API Documentation
 
+> Part of the **LabKit** tech stack
+
 Complete API reference for TextForge text manipulation API.
 
 ## Base URL

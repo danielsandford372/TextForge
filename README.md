@@ -1,6 +1,10 @@
 # TextForge API
 
+> Part of the **LabKit** tech stack
+
 A powerful REST API for text manipulation, analysis, and transformation. Built with TypeScript, Express, and comprehensive text processing libraries.
+
+TextForge is a core component of the LabKit ecosystem, providing essential text processing capabilities for modern web applications.
 
 ## Features
 
